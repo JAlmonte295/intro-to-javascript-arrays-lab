@@ -1,6 +1,4 @@
-console.log("test")
-
-// Joan Almonte 6/8/25 *remember to commit*
+// Joan Almonte 6/10/25
 
 /*
 Exercise 1: Define an empty array
